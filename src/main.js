@@ -79,6 +79,7 @@ loadMoreBtn.addEventListener('click', async () => {
     }
 
     
+
     const card = document.querySelector('.gallery-item');
     const cardHeight = card.getBoundingClientRect().height;
 
